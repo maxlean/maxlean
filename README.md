@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-
-**maxlean/maxlean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🧑 Leandro Gamarra here, I'm 29.
+- 🇦🇷 I'm from Argentina, Buenos Aires. 
+- 😄 Gamer and otaku
+- 🔭 I’m currently working on COTO C.i.C.S.A (In technical service of the brand)
+- 💻  I’m looking for work on IT, to try to become a software developer
+- 🌱 I’m currently learning C#, HTML, CSS, JavaScript.
+- 📫 How to reach me: 
+-     Telegram: https://t.me/Maxlean92
+-     Twitter : https://twitter.com/maxlean_92
+- ⚡ Some fact: It takes me a while to find the career that I like, but now that I have found it, I want to put all my effort into improving myself day by day.
